@@ -4,7 +4,7 @@ FitCoach AI is an intelligent fitness coaching agent built with the **Google Age
 
 ![FitCoach AI Demo](demo.gif)
 
-> **Note on Video Playback**: The GIF above is a recorded preview of FitCoach AI in action (captured with `record-demo`). GitHub supports inline video playback for `.webm` files when uploaded directly through the GitHub Web Editor; you can also inspect `fitcoach_agent_demo.webm` in the repository root.
+> **🎬 Full Video Demo with Audio**: Watch or download the full HD demo recording featuring instrumental lo-fi AI background music (generated via Google Vertex AI Lyria): **[`fitcoach_agent_demo.mp4`](fitcoach_agent_demo.mp4)**.
 
 ---
 
